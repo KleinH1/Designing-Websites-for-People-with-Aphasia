@@ -1,0 +1,155 @@
+
+#nav {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: auto;
+	background-color: #1232A3;
+}
+
+#nav li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 35px;
+	margin: 0;
+	font-size: 1.5em;
+	letter-spacing: 0.05em
+}
+
+body {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+
+section {
+	box-sizing: border-box;
+	padding: 0px 10px;
+}
+
+nav a:link {
+	color: #FCD650;
+	text-decoration: none;
+}
+
+nav a:visited {
+	color: #FCD650;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #FCD650;
+	text-decoration: underline;
+}
+
+nav a:active {
+	color: #FCD650;
+	text-decoration: underline;
+}
+
+a:link {
+	color: #1232A3;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #1232A3;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #1232A3;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #1232A3;
+	text-decoration: underline;
+}
+
+ul li {
+	padding: 8px 0px
+}
+
+h1 {
+	font-size: 2em;
+	text-align: center;
+	color: #575656;
+	letter-spacing: 0.05em
+}
+
+h2 {
+	font-size: 1em;
+	text-align: center;
+	color: #575656;
+}
+
+section {
+width: 100%;
+float: left;
+}
+
+td{
+	padding: 10px;
+	font-size: 1.75em;
+	color: #575656;
+	letter-spacing: 0.03em;
+} 
+
+.About-Aphasia-1, .About-Aphasia-2 {
+	width: 100%;
+	font-size: 1.75em;
+	color: #575656;
+	letter-spacing: 0.03em
+}
+
+.guidelines .left {
+ 	 width: 33.3%;
+ 	 height: 200px;
+ 	 float: left;
+	 font-size: 1.5em;
+     color: #575656;
+	 letter-spacing: 0.03em
+}
+
+.guidelines .right {
+ 	 width: 33.3%;
+ 	 float: right;
+	 font-size: 1.5em;
+     color: #575656;
+	 letter-spacing: 0.03em
+}
+
+#aphasia-difficulties {
+	overflow: hidden;
+}
+
+#aphasia-difficulties .left {
+ 	 width: 20%;
+ 	 float: left;
+	 font-size: 1.5em;
+     color: #1232A3;
+	 letter-spacing: 0.03em;
+	 text-align: center;
+}
+
+#aphasia-difficulties .right {
+ 	 width: 20%;
+ 	 float: right;
+	 font-size: 1.5em;
+     color: #1232A3;
+	 letter-spacing: 0.03em;
+	 text-align: center;
+}
+
+#aphasia-difficulties .left img {
+	width: 100%;
+	height: auto;
+}
+
+#aphasia-difficulties .right img {
+	width: 100%;
+	height: auto;
+}
+
