@@ -144,9 +144,11 @@ float: left;
 	height: auto;
 }
 
-#aphasia-difficulties .right img {
-	width: 100%;
-	height: auto;
+@media (max-width: 818px) {
+	#aphasia-difficulties .left {
+		width: 50%;
+		float: none;
+	}
 }
 
 #More-Info p {
